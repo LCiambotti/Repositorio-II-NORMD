@@ -1,0 +1,4 @@
+La terminal es la interfaz de linea de comandos que permite comunicarse con la computadora a través de comandos simples para darle ordenes y obtener un resultado especifico.
+Comando = Instruccion qué al ser ejecutado en el CLI produce una accion 
+CLI = Caja negra que recibe comandos a través de la esctirura por medio de un teclado para luego procesarlos y arrojar un resultado (positivo o negativo) 
+Los comandos son sensibles a las mayusculas y minusculas. 

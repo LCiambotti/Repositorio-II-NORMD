@@ -1,0 +1,11 @@
+pwd = Print Directory. 
+ls = Lista de Objetos en el Directorio. 
+mkdir = Nuevo Directorio (-v confirma, " " para nombres con espacios) 
+cd = Cambiar Directorio 
+cd .. = Volver atrás. 
+clear = Limpiar la terminal
+touch = Crea nuevo archivo (Aclarar extension, ej: .txt .js 
+rm = Remove, eliminar un archivo.
+rm -r = Remove, Eliminar una carpeta 
+help = Comando ayuda 
+comando --help = Ayuda sobre comando especifico.
